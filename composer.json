@@ -1,0 +1,14 @@
+{
+    "name": "acelovezy/page",
+    "description": "分页类",
+    "type": "lib",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zy",
+            "email": "acelovezy@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
